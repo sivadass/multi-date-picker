@@ -1,2 +1,2 @@
-# multi-date-picker
+# Multi Date Picker
 Recurrent Days Picker
